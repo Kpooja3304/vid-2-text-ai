@@ -4,3 +4,5 @@ faster-whisper
 transformers
 yt-dlp
 deep-translator
+torchvision
+torchaudio
